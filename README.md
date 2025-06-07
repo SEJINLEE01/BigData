@@ -1,6 +1,6 @@
 # BigDataProgramming Project Team C
 ## 리뷰추출 코드 설명
-### 1.Review 폴더에 있는 ipynb의 설명입니다.  
+### 1.Review_Collection 폴더에 있는 ipynb의 설명입니다.  
 동적 웹페이지를 웹크롤링 하기위해서 구글링을 해보니 Selenium을 사용해야했고  
 그에 따라서 크롬드라이버가 필요해 크롬드라이버를 설치했습니다.  
 코드는 실행하면 자동으로 웹 브라우저를 열고, 지정된 상품 페이지로 이동하여 리뷰와 별점 정보를 추출합니다.     
@@ -10,3 +10,6 @@
 - requests, 2.20.0
 - selenium, 4.31.0
 - pandas, 2.2.3  
+---
+## 데이터 전처리 코드 설명
+### 2.Text_Processing 폴더에 있는 ipynb의 설명입니다.

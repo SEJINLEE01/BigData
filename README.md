@@ -30,6 +30,8 @@
 모든 토큰을 이어붙인 후 키워드를 추출했습니다.  
 
 **사용한 모델 설명**  
+해당링크의 허깅페이스에서 모델을 가져왔습니다.  
+https://huggingface.co/sentence-transformers/distiluse-base-multilingual-cased-v1  
 KeyBERT에서 사용하는 distiluse-base-multilingual-cased-v1 모델은 다국어(한국어 포함)를 지원하는 경량화된(DistilBERT 기반) 모델입니다.  
 이는 문서의 의미를 잘 담아내는 문장 임베딩을 생성하여, 빠르고 효율적인 키워드 추출을 가능하게 합니다.  
 파이썬 버젼, **3.11.9**
